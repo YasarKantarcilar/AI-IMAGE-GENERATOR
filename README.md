@@ -1,0 +1,13 @@
+# AI-IMAGE-GENERATOR
+an image generator with ai, supported by AuricaAuro api's
+
+
+#DOWNLOAD ALL FILES AND PUT THEM IN A FOLDER
+
+#YOU NEED TO HAVE NODEJS(ATLEAST VERSION 18.16)
+
+#GO ON CONSOLE AND FIND THE FOLDER
+
+#TYPE THE COMMAND npm install
+
+#TYPE THE COMMAND npm run dev
